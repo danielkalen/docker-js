@@ -1,5 +1,5 @@
 {
-  "name": "mydockerjs",
+  "name": "dockertools",
   "version": "1.8.2",
   "description": "A javascript utility library for docker",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giper45/docker-js.git"
+    "url": "git+https://github.com/danielkalen/dockertools.git"
   },
   "keywords": [
     "docker",
@@ -22,9 +22,9 @@
   "author": "Gaetano Perrone",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/giper45/docker-js/issues"
+    "url": "https://github.com/danielkalen/dockertools/issues"
   },
-  "homepage": "https://github.com/giper45/docker-js#readme",
+  "homepage": "https://github.com/danielkalen/dockertools#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "eslint-config-airbnb-base": "^11.1.3",
